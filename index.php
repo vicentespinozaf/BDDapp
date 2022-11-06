@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1 align="center"> El lugar donde encotrar todo sobre tus vuelos y aerolíneas </h1>
+    <h1 align="center"> Database Artistas </h1>
     <br>
     <br>
     <br>
